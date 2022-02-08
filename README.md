@@ -1,7 +1,8 @@
-API BREAKING-BAD
+## API BREAKING-BAD
+
 Aplicacion desarrollada en React js consultando aleatoriamente frases de la serie breaking-bad.
 
-Pre-requisitos clipboard
+## Pre-requisitos clipboard
 Preinstalar:
 
 React js
@@ -13,7 +14,7 @@ npm install Luego iniciar con "npm start"
 
 npm start
 
-Construido con:
+## Construido con:
 React js, Html, Css, @emotion/styled
 Autores
 Everto Farias
